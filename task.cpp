@@ -7,7 +7,7 @@ int Task::m_task_unique_id = 0;
 
 // default ctor 
 Task::Task() :
-    m_task_id{STATUS::INVALID_STATUS},
+    m_task_id{-1},
     m_title{"undefined"},
     m_description{"undefined"},
     m_deadline{"undefined"},

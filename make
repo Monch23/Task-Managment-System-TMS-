@@ -1,1 +1,1 @@
-g++ main.cpp task_impl.cpp user_impl.cpp taskmanager_impl.cpp encrypt_impl.cpp
+g++ main.cpp task.cpp user.cpp taskmanager.cpp encrypt.cpp
